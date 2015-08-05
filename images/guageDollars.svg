@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-154 320 302 154.7" style="enable-background:new -154 320 302 154.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{font-family:'Montserrat-Bold';}
+	.st3{font-size:29.9356px;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	
+		<rect x="-137.3" y="411" transform="matrix(-0.4909 0.8712 -0.8712 -0.4909 186.9767 744.4104)" class="st0" width="26.7" height="31.7"/>
+	<g id="guageEdit.tif">
+		<defs>
+			<rect id="SVGID_1_" x="-153.7" y="321.4" width="301.4" height="150.7"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st1">
+			
+				<image style="overflow:visible;" width="302" height="151" id="Layer_0" xlink:href="67095809.png"  transform="matrix(0.9979 0 0 0.9979 -153.6758 321.3551)">
+			</image>
+		</g>
+		<g class="st1">
+			
+				<rect x="-130.8" y="409.3" transform="matrix(-0.3761 0.9266 -0.9266 -0.3761 231.5638 696.5131)" class="st0" width="24.3" height="33.9"/>
+			<text transform="matrix(0.3761 -0.9266 0.9266 0.3761 -118.4065 439.4368)" class="st2 st3">$</text>
+		</g>
+		<g class="st1">
+			
+				<rect x="-70.9" y="340.8" transform="matrix(-0.9141 0.4056 -0.4056 -0.9141 55.1338 699.9362)" class="st0" width="48.6" height="29.9"/>
+			<text transform="matrix(0.9141 -0.4056 0.4056 0.9141 -65.842 372.2777)" class="st2 st3">$$</text>
+		</g>
+		<g class="st1">
+			
+				<rect x="15.6" y="344.2" transform="matrix(-0.9137 -0.4063 0.4063 -0.9137 -49.461 715.5304)" class="st0" width="71.2" height="37.7"/>
+			<text transform="matrix(0.9137 0.4063 -0.4063 0.9137 17.3407 351.6296)" class="st2 st3">$$$</text>
+		</g>
+		<g class="st1">
+			
+				<rect x="74.6" y="417.1" transform="matrix(-0.4109 -0.9117 0.9117 -0.4109 -232.2983 713.0715)" class="st0" width="79.2" height="28.9"/>
+			<text transform="matrix(0.4109 0.9117 -0.9117 0.4109 90.8762 398.6517)" class="st2 st3">$$$$</text>
+		</g>
+	</g>
+</g>
+</svg>
