@@ -1,0 +1,28 @@
+LCBO KEY - MDphYzlmMTE4Yy0zNjI2LTExZTUtOGI1My0xZmQ1MzBjOGNmYzQ6RHZ4UGZGVzhRa0lrOEFhUnhiY3FSSWgzY0RkUFFCQnk0YXRC
+
+
+"3": {
+	text:"That's cold, yo. The booze you choose should be worth more than your friendship." ,
+	min: 0,
+	max: 500,
+	bottleRotationClass: 'price01bottle'
+},
+"2": {
+	text: "You really can't afford it but yo, credit card bill ain't due for another month!",
+	min: 501,
+	max: 1500,
+	bottleRotationClass: 'price02bottle'
+},
+"1": {
+	text:"You're feelin' generous 'cause yo, it's payday!" ,
+	min: 1501,
+	max: 2500,
+	bottleRotationClass: 'price03bottle'
+},
+"4": {
+	text: "You're a straight G so we're ballin' out, YO!",
+	min: 2501,
+	max: 10000,
+	bottleRotationClass: 'price04bottle'
+},
+
