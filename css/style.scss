@@ -211,7 +211,10 @@ h1 {
 		  padding: 30px 0;
 		  position: relative;
 		  border: none;
-
+			
+			g.choice {
+				cursor: pointer;
+			}
 
 		  .price01bottle {
 		    transform: rotate(-50deg);
@@ -288,6 +291,7 @@ h1 {
 				.guage-wrapper {
 					display: inline-flex;
 					flex-wrap: wrap;
+					
 					
 					img {
 						padding: 5px 0 15px;
