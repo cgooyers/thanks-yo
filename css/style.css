@@ -426,6 +426,7 @@ h1 {
 .flex-wrapper section.main .content-container {
   text-align: center;
   background: #d3a55b;
+  padding-bottom: 10px;
 }
 
 .flex-wrapper section.main .content-container h1 {
