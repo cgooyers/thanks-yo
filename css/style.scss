@@ -15,6 +15,10 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 }
 /* END OF SETUP STYLES*/
 
+link.icon {
+	width: 10%;
+	
+}
 
 html {
 
@@ -216,6 +220,7 @@ h1 {
 				cursor: pointer;
 			}
 
+
 		  .price01bottle {
 		    transform: rotate(-50deg);
 		    transition: all 2s ease;
@@ -250,8 +255,8 @@ h1 {
 
 		#bottle {
 		 	margin-top: -30px;
-		}
 
+		}
 	
 
 		.hidden-choice-container, {
@@ -271,6 +276,7 @@ h1 {
 		img.beer {
 			width:80%;
 			margin-top: 10px;
+
 		}	
 
 		.content-container {
@@ -281,6 +287,7 @@ h1 {
 					font-family: 'Lato', sans-serif;
 					margin: 0;
 					font-size: 20px;
+					padding-bottom: 15px;
 					color: white;
 					text-shadow: 2px 2px #848383;
 					letter-spacing: 1px;
@@ -292,7 +299,6 @@ h1 {
 				.guage-wrapper {
 					display: inline-flex;
 					flex-wrap: wrap;
-					
 					
 					img {
 						padding: 5px 0 15px;

@@ -6,6 +6,7 @@ var filteredItems = "";
 thanksYo.choices = {
 
 	"1": {
+
 		text:"That's cold, yo. The booze you choose should be worth more than your friendship." ,
 		min: 0,
 		max: 500,
@@ -17,7 +18,9 @@ thanksYo.choices = {
 		max: 1500,
 		bottleRotationClass: 'price02bottle'
 	},
+
 	"3": {
+
 		text:"You're feelin' generous cause yo, it's payday!" ,
 		min: 1501,
 		max: 2500,
